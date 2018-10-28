@@ -1,0 +1,8 @@
+1. To get started click on the map where you want the corners of the car park to be, you will see straigt lines drawn showing you your current car park.
+2. After you are happy with your selction it's time to choose what types of spaces you want to go into the car park. Use the options on the right side of the window to reset the queue and then add some spaces to the queue. The last item in the queue will be used to fill up the rest of the space in the car park.
+3. If you want to add a perimeter road you can click the check box below the map.
+4. Now click the green go button and your car park will be displayed and you will be told some information about how many spaces were added.
+5. You can use the share button at the top of the screen to save or email your car park image if you want to.
+6. To change the shape or edit the car park space queue press the 'Hide car park tile layout' button.
+
+Outlook is required to send emails through the share menu.
